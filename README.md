@@ -1,2 +1,2 @@
 # SQL_Queries
-SQL Queries in SQL Server
+NOTE: Movies Database Credit - WiseOwlTutorials
